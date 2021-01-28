@@ -1,0 +1,22 @@
+{
+  "name": "exercise-domain-generator",
+  "version": "1.0.0",
+  "description": "Generador de dominio",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilyRodz/exercise-domain-generator.git"
+  },
+  "keywords": [
+    "domain-generator"
+  ],
+  "author": "MilyRodz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilyRodz/exercise-domain-generator/issues"
+  },
+  "homepage": "https://github.com/MilyRodz/exercise-domain-generator#readme"
+}
